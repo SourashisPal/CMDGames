@@ -1,0 +1,9 @@
+This is a TicTacToe game. ♨️
+It consists of X and O marks which are to be given by the respective players.
+Rules :-
+1) Player 1 will be asked for his/her choice which may be X and O.
+2) For marking different numbers will be shown for different places.
+3) The numbers which will be shown have to be entered correctly.
+4) In case the number entered does not match any of the numbers given no action will take place and the turn will be changed.
+5) At last, it will be declared whether the match is drawn, or won by any player.
+ --Enjoy our game--

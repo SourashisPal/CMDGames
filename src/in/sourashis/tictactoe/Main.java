@@ -5,7 +5,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 /**
- * This class acts as the Main class for the tictactoe game.
+ * This class acts as the Main class for the TicTacTow game.
  * @author Sourashis Pal
  */
 public class Main {

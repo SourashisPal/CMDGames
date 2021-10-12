@@ -3,7 +3,8 @@ package in.sourashis.tictactoe;
 import java.util.*;
 
 /**
- * The Game class for the tictactoe game.
+ * The Game class for the TicTacToe game.
+ * @author Souarshis Pal
  */
 public class TicTacToe {
 
